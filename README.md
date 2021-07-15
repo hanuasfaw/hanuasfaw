@@ -1,16 +1,13 @@
-### Hi there 👋
+Selam, friend 👋🏾
 
-<!--
-**brehanuasfaw/brehanuasfaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am Asfaw (pronounced /as•fa/), a high school computer science student. I have been coding since 2012 when I found Apple's (now dropped) [iWeb](https://www.apple.com/welcomescreen/ilife/iweb-3/) website builder. Since then, I've expanded to algorithms and data structures.
 
-Here are some ideas to get you started:
+Hopefully you'll find some projects that are interesting and may inspire you. Everything is heavily documented, both in the READMEs and the source code itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit [my website](https://brehanubugg.com) if you want to learn more about me or see my other persuits. My résumé and socials are also on there. Feel free to reach out to me!
+
+Until then,
+
+Ciao. —Asfaw
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brehanuasfaw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
