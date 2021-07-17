@@ -9,5 +9,3 @@ Visit [my website](https://brehanubugg.com) if you want to learn more about me o
 Until then,
 
 Ciao. —Asfaw
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brehanuasfaw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
