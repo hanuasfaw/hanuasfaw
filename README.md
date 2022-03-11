@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am Hanu Asfaw (pronounced /as•fa/), a high sch
 
 Hopefully you'll find some projects that are interesting and may inspire you. Everything is heavily documented, both in the READMEs and the source code itself.
 
-Visit [my website](https://brehanubugg.com) if you want to learn more about me or see my other persuits. My résumé and socials are also on there. Feel free to reach out to me!
+Visit [my website](https://hanuasfaw.com) if you want to learn more about me or see my other persuits. My résumé and socials are also on there. Feel free to reach out to me!
 
 Until then,
 
